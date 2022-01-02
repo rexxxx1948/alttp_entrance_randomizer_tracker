@@ -1,3 +1,20 @@
+-----
+Hi, I try to get in touch with Orphis.
+I epand his Tracker by the door insanety funktion and want to give him my version but I do not find a way to send him my Files.
+
+Sorry about this but I have no real Idea how to use gut Hub and there is no way to send a message to any one.
+
+My Mail Address is:
+rexxxx@web.de
+
+
+Greetings and sorry for this.
+
+-------------------------------------------------------------------------------
+
+
+
+
 # Orphis's Zelda 3 randomizer tracker
 
 This is a "tracker" for Zelda: A Link to the Past Randomizer. Please use the
